@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+Before you start this project, you need to clone and run the server app from this link below:
+[This is an external link to the server app](https://github.com/gayohignasius/chapter7-task-binar-jwt-authentication)
 
 ### `npm test`
 

@@ -51,7 +51,7 @@ code {
 }
 
 input:checked+.slideBtnTg {
-  background-color: #141b26;
+  background-color: #26282b;
 }
 
 input:focus+.slideBtnTg {
